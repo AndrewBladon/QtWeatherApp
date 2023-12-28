@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>ConditionsNavigatorForm.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>icon-filter-10.jpg</file>
+        <file>AppIcon.ico</file>
+    </qresource>
+</RCC>
